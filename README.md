@@ -4,7 +4,7 @@ This is a simple (350 loc) fluid simulator for incompressible flows with constan
 
 ### Cavity simulation
 
-<video src="cavity/cavity_combined.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/5e1624b0-2be6-40a8-8876-22b57b94a2c5" controls width="600"></video>
 
 left: this sim, right: OpenFOAM
 
