@@ -25,7 +25,7 @@ python visualize2d.py --case_dir cavity --sim_dir cavity_sim --vid_path cavity/c
 - uniformTotalPressure specified boundary conditions like in the TJunction tutorial.
 - Non-uniform kinematic viscosity (also implement the second deviatoric stress term).
 - Run on TJunction tutorial!
-- The cavity mesh is small enough that we can just use scipy.sparse.linalg.spsolve. It could be cool to use some of the interative solver methods like in openfoam.
+- The cavity mesh is small enough that we can just use scipy.sparse.linalg.spsolve. It could be cool to use some of the iterative solver methods like in openfoam.
 
 ### Basic derivation
 
